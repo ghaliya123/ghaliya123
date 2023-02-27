@@ -1,9 +1,0 @@
-<html>
-<head>
-<title> TRA GIT 2023</title>
-</head>
-<body>
-<h1>welcome to Gitgub</h1>
-<p>tis is my first Github Repo</p>
-</body>
-</html>
